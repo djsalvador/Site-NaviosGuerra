@@ -1,0 +1,12 @@
+Neste exemplo de website: 
+- adaptável a dispositivos móveis utilizando Bootstrap 
+- é responsivo (mobile-first) 
+- adaptável para diversos tamanhos de tela, dispositivos, SO e navegadores 
+- os formulários são estilizados e contêm os inputs types corretos 
+- maioria das tags de alguma classe bootstrap (img, table, li, etc) 
+- utilizado carrousel, glyphicon e menus responsivos. 
+
+OBS.1: O projeto completo com a pasta de imagens encontra-se compactado.
+
+OBS.2: Este Website não está funcional e serve apenas para demonstrar as
+habilidades básicas deste aprendiz de desenvolvedor.
